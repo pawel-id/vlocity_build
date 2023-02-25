@@ -95,5 +95,5 @@
         "build": "pkg . --out-path ./dist",
         "nyctest": "nyc mocha test/**/**.spec.js"
     },
-    "version": "0.0.1"
+    "version": "1.16.3"
 }
