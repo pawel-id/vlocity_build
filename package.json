@@ -52,7 +52,7 @@
     ],
     "license": "MIT",
     "main": "lib/vlocity.js",
-    "name": "vlocity",
+    "name": "vlocity-fix",
     "owner": "vlocityinc",
     "pkg": {
         "assets": [
