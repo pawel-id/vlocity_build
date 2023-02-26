@@ -1,6 +1,8 @@
 {
     "author": "arutland@vlocity.com",
-    "bin": "lib/vlocitybuild.js",
+    "bin": {
+        "vlocity": "lib/vlocitybuild.js"
+    },
     "dependencies": {
         "async": "3.2.0",
         "command-exists": "^1.2.9",
